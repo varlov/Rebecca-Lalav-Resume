@@ -1,8 +1,8 @@
-|
+
 # Rebecca lalav
 Extremely curious, relentless in pursuit and always eager to learn. | 13 Tunder Obitayo StreetMagodo, Lagos.**(+234) 9032051030****Dovelalove@gmail.com** |
 | --- | --- |
-|
+
 
 # LANGUAGES
 Javascript, Html, Css,Php,mysql,
@@ -11,7 +11,6 @@ Javascript, Html, Css,Php,mysql,
 Good listening and communication skills, Excellent team player, quick learning and adaptability skills.
 -
 # EXPERIENCE
-
 #  Shehacks AfricaLagos — coding bootcamp
 
 ### May 2019- June2019
