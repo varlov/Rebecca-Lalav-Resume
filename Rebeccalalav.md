@@ -3,6 +3,13 @@
 Extremely curious, relentless in pursuit and always eager to learn. | 13 Tunder Obitayo StreetMagodo, Lagos.**(+234) 9032051030****Dovelalove@gmail.com** |
 | --- | --- |
 |
+
+# LANGUAGES
+Javascript, Html, Css,Php,mysql,
+
+# SKILLS
+Good listening and communication skills, Excellent team player, quick learning and adaptability skills.
+-
 # EXPERIENCE
 
 #  Shehacks AfricaLagos — coding bootcamp
@@ -35,13 +42,11 @@ Javascript with React.
 
 ### May 2019- June 2019
 Full mean stack web development in Html, CSS,Javascript, PHP, MYSQL, Leadership and Entrepreneural skills. .
+
 # PROJECTS
 
 ## Connectif — _Building a webapp_
 In 4weeks, in a group, we build a user-friendly, responsive web app which is to serve as a platform for users to connect with different skilled vocational service providers. |
-# SKILLS
-Good listening and communication skills, Excellent team player, quick learning and adaptability skills.
--
 
-# LANGUAGES
-Javascript, Html, Css,Php,mysql, 
+
+ 
